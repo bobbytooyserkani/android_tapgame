@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620716526247",
+    "project_id": "tapgame-c0339",
+    "storage_bucket": "tapgame-c0339.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620716526247:android:1d43ec026c6e086d7ae982",
+        "android_client_info": {
+          "package_name": "com.example.tapgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620716526247-1f8j8eaul15ajre4h1je8lo7bepnnip2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2WXg1_I_4OUYNPSja6aupWbFdk-V9bA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620716526247-1f8j8eaul15ajre4h1je8lo7bepnnip2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

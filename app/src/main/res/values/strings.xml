@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TapGame</string>
+    <string name="let_s_play">Let\'s Play!</string>
+    <string name="main_game">Main Game!</string>
+    <string name="press_me">PRESS ME!</string>
+    <string name="name">Name:</string>
+    <string name="usrname">name</string>
+    <string name="return_to_menu">Return to Menu</string>
+</resources>
